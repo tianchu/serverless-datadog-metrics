@@ -1,3 +1,5 @@
+This library is no longer supported, please use the [Datadog Lambda Layer](https://github.com/DataDog/datadog-lambda-layer-js) instead. Learn more about [monitoring lambda functions using Datadog](https://docs.datadoghq.com/integrations/amazon_lambda/).
+
 # serverless-datadog-metrics
 
 This library logs useful metrics from AWS Lambda functions, so that they can be accumulated via Datadog's AWS Lambda integration. See _Related Documents_ below.
